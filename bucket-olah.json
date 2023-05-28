@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "project-latihan-cps",
+  "private_key_id": "ff2efbf8e6d6a9237545868c3230aae0b9f73041",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDUiINo/uQ72eTc\nvyj90Dng+sm3iQDT6BdClF/LRI10TijHFRFEL2VLgGtzC/LBE6VTxKedy4lcemN+\nCbsuQsDkj61T3JPOL2aVV08v8u7KuxhoDFPL8RhsW0FZE8VQWE8cwPzb9cHwkH93\nPbQJJOZioK2+XopQkCI/7gTwnklrjmM2uB2Vo8TqZ0cRvsiroSUA4UqFqRkzwud7\nrRnXMwrLPrUQWulpuhPXpEe7F+Pj5LnYfuYf/asotI1gaivfHw6GiaDY+E1kpKtQ\n6Q75f8PyNhKp+uqkV9mngXWTcOh26Ti39u3riO5Iqwsz11bObKQe+HAQ87wPUj6B\nAg/CtUVxAgMBAAECggEAANikrDggskAhoh1ivred8qec/KTfgr5Qs/DBk/uUCG6R\nmosmVzk1oou8rW2kKQnVwqV+IenDEAfL0VlXY4HnWy1D0420KA2cLIyxlfsQVeUj\nGA9U3qHh/iZHatVt6RzDFm1EqNkxnroCYtUeBP5ke+f2J7Cr3JfOVI+np9XNJsRX\nvX1QBx8/v0AIrmokdlm/oI9H4IvE4HAy25dG6s2DOB22Yamref2CEEeHfwBg5TMB\nbz0AB5WTAsKcBEMg7qPVC0eMTv7Iqi09LgKrcfO8fHhtzGqNATDwfEJry3+PQlAp\n4CXQ71khg+mDjYzIxMULwio5eN/VBNRAdWovRmQNiQKBgQD8czf/hNzzWJk3H4zu\nYoKoQ0s4BAZQVgxmox0D7D8t23OAZNpQQ7pEbZR+TzoU0ezmI5F+w+gOcevFabPT\nN5xsZF/KrA62Qea+z7lPViBqoViwWdcTxIM3Yus/RblLnreLp8Ltjuo90KzL7GUU\nwAfM43mb5QLcogklep7Z9pHX7QKBgQDXhZmmwhGMdBlPlYcwFirFkXx+f6oKKuqE\nzE08JMR8Oajq0KQt7VaqkTYLKeehjh5yH8nHo6QfZVTWzgk6yDQ9PzxjtgeqncZy\nqKn5Fhtc29nGnhmdyGLAks2KnbkwQVPe981FRduw0+mL3oxjZwA28SIqt02YGcSD\nKvIeRKjrFQKBgCj4WgIyAdnMazEzAaA+hI3iPfbdUFkBXgnaNv9H/AjpMJmJxJR6\nKWSplAvbt8VhPF0tMJOuH58YhfcH7JM+1zgQIiu2OL0DfPtCowRpKeGkRcx5CBrB\nLbpzZ1Jhcmz/WTJlC5GaPBHEKAcAWnc/owRxdm8Cf7Bm660VdWpSReERAoGAOhNq\nQCFzkSGH4IYuk6qlg++cWIoWS/8ciwRym45c1AzFk+D9HNMj03ql0YRNQp+FXMNs\nIDvccglgPzHuEsT4LrjnkQbwMe2qGCOTCegHH5KusHLR/E6PLc1hTcUKrhIsg5zK\n16vnc1LnUCV8Nxz+Vc/MoS4b3qyy45WjAL0Ht7ECgYAd7AOyOUd4f1Wb6OMdfTXi\nS9SbcSBOC2AwCeZ/oU6HM6m2cSwoouExvg0J/rOvAGtos8Hm+daNQti3Of7xOR6G\n4YLVg8wgL5CUl51ddT9rmyBXc4WRMXa80YuqdxDCJkqGpwnyAjZE7oLDXhjuiEdm\nFx62GBob5vjLiqibUqZ3OQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "bucket@project-latihan-cps.iam.gserviceaccount.com",
+  "client_id": "102260394927740153486",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/bucket%40project-latihan-cps.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
