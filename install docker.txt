@@ -1,0 +1,25 @@
+winget install --exact --id Docker.DockerDesktop --accept-source-agreements --accept-package-agreements
+
+--docker --version
+
+app.get('/gambar&no=4', (req, res) => {
+    connection.query('SELECT no, jam, tanggal, jumlah_ayam, jumlah_pakan, gambar  FROM ayam WHERE no=$no', (error, results) => {
+        if (error) {
+            res.status(500).json({ error: 'Terjadi kesalahan saat mengambil data dari database.' });
+        } else {
+            const data = {
+                no: results[0].no,
+                tanggal: results[0].tanggal,
+                jam: results[0].jam,
+                jumlah_ayam: results[0].jumlah_ayam,
+                pakan: results[0].jumlah_pakan,
+                gambar: results[0].gambar
+            };
+
+            res.json(data);
+        }
+    });
+});
+
+INSERT INTO ayam (jam, tanggal, jumlah_ayam, jumlah_pakan, gambar)
+VALUES ('17:00:00', '2023-05-27', 20, 70, 'https://example.com/image3.jpg');
