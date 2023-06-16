@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['chicken']
+
+roboflow:
+  workspace: chickendetection-sct5j
+  project: chicken-count
+  version: 4
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/chickendetection-sct5j/chicken-count/dataset/4

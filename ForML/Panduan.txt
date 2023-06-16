@@ -1,0 +1,12 @@
+1. service-account-key  : adalah kunci untuk menginput data di storage dan sql
+2. tampildata 		: adalah python untuk mengecek data dalam sql, dan jika mau tampilkan gambar, klik saja url dalam gambar yang didalam data
+3. Insertdata		: adalah python untuk menginputkan data proses kalian (jumlah ayam, dan gambar)
+
+Alert..!!!
+1. EDIT DAN  TAMPILKAN FILE INI DI IDLE PYTHON
+2. taruh service key di komputer dan CATAT pathnya yang SEPERTI "D://FOLDER//service-account-key.json"
+3. cari TODO ..(1) ubah pathnya jdi pathyang telah dicatat
+4. cari TODO ..(2) lalu masukkan variable untuk "Jumlah Ayam" yang kalian hasilkan
+5. cari TODO ..(3) lalu masukkan PATH untuk "GAMBAR" yang kalian hasilkan
+
+inputan kalian hanya (ayam, gambar) dan aplikasi ini akan mengirim data kalian berupa (no,tanggal, jam, ayam, gambar, periode, harike, pakan, besok, pakan_besok)
