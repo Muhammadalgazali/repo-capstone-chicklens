@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ChickenLens</string>
+    <string name="info">ChickLens</string>
+    <string name="btn_kunjungi">Kunjungi</string>
+    <string name="info2">Apliasi ini membantu mengatasi masalah yang terjadi di peternakan seperti memantau jumlah unggas saat ini dan jumlah ideal pakan yang diberikan, serta tingkat moalitas rata-rata ayam setiap hari atau minggu.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="tabs_name">
+        <item>LAST 6 DAY</item>
+        <item>ALL DAY</item>
+    </string-array>
+</resources>
